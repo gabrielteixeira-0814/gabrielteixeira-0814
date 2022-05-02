@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/gabriel-teixeira-2510/">
   <img width="35px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/48/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png"/>
 </a>
-<a href="https://open.spotify.com/user/vpgpwovbo3g46kxut0vlxfk4x">
+<a href="">
   <img alt="ChernoBen's Spotify" width="35px"  src = "https://img.icons8.com/doodle/48/000000/gmail-new.png"/>
 </a>
 </p>
