@@ -13,19 +13,19 @@ Graduando em Sistema da Informação pela Universidade Nove de Julho (Uninove) -
 </p>
 <hr>
 <p align="center">
-  <code><img height="50" src="https://img.icons8.com/color/48/000000/docker.png"></code>
-  <code><img height="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/></code>
-  <code><img height="50" src="https://img.icons8.com/offices/40/000000/php-logo.png"></code>
-  <code><img height="50" src="https://img.icons8.com/fluency/48/000000/laravel.png"></code>
-  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg"></code>
-  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"></code>
-  <code><img height="50" src="https://img.icons8.com/color/48/000000/javascript--v1.png"></code>
-  <code><img height="50" src="https://img.icons8.com/color/48/000000/typescript.png"></code>
-  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
-  <code><img height="50" src="https://img.icons8.com/color/48/000000/html-5--v1.png"></code>
-  <code><img height="50" src="https://img.icons8.com/color/48/000000/css3.png"></code>
-  <code><img height="50" src="https://img.icons8.com/color/48/000000/bootstrap.png"></code>
-  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"></code>
+  <code><img height="50" alt="Docker" src="https://img.icons8.com/color/48/000000/docker.png"></code>
+  <code><img height="50" alt="Mysql" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/></code>
+  <code><img height="50" alt="PHP" src="https://img.icons8.com/offices/40/000000/php-logo.png"></code>
+  <code><img height="50" alt="Laravel" src="https://img.icons8.com/fluency/48/000000/laravel.png"></code>
+  <code><img height="50" alt="Groovy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg"></code>
+  <code><img height="50" alt="NodeJs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"></code>
+  <code><img height="50" alt="JavaScript" src="https://img.icons8.com/color/48/000000/javascript--v1.png"></code>
+  <code><img height="50" alt="TypeScript" src="https://img.icons8.com/color/48/000000/typescript.png"></code>
+  <code><img height="50" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
+  <code><img height="50" alt="HTML" src="https://img.icons8.com/color/48/000000/html-5--v1.png"></code>
+  <code><img height="50" alt="CSS" src="https://img.icons8.com/color/48/000000/css3.png"></code>
+  <code><img height="50" alt="Bootstrap" src="https://img.icons8.com/color/48/000000/bootstrap.png"></code>
+  <code><img height="50" alt="Jquery" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"></code>
 </p>
 <br>
 <hr>
