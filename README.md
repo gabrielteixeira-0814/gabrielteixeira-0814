@@ -20,7 +20,6 @@ Graduando em Sistema da Informação pela Universidade Nove de Julho (Uninove) -
   <code><img height="50" title="Groovy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg"></code>
   <code><img height="50" title="NodeJs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"></code>
   <code><img height="50" title="JavaScript" src="https://img.icons8.com/color/48/000000/javascript--v1.png"></code>
-  <code><img height="50" title="TypeScript" src="https://img.icons8.com/color/48/000000/typescript.png"></code>
   <code><img height="50" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
   <code><img height="50" title="HTML" src="https://img.icons8.com/color/48/000000/html-5--v1.png"></code>
   <code><img height="50" title="CSS" src="https://img.icons8.com/color/48/000000/css3.png"></code>
