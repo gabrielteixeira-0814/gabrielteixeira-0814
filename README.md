@@ -9,7 +9,7 @@
 </a>
 </p>
 <p align="center">
-Graduando em Sistema da Informação pela Universidade Nove de Julho (Uninove) - Brasil.
+Graduado em Sistema da Informação pela Universidade Nove de Julho (Uninove) - Brasil.
 </p>
 <hr>
 <p align="center">
